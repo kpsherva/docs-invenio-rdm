@@ -118,6 +118,7 @@ nav:
       - Requests API: 'reference/rest_api_requests.md'
       - Communities API: 'reference/rest_api_communities.md'
       - Vocabularies API: 'reference/rest_api_vocabularies.md'
+    - Administration: reference/administration_interface.md
   - Releases:
     - Overview: releases/index.md
     - Maintenance policy: releases/maintenance-policy.md
